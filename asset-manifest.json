@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eight-ball-react-js/static/css/main.39d721ee.css",
+    "main.js": "/eight-ball-react-js/static/js/main.b33ed54a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/eight-ball-react-js/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/eight-ball-react-js/index.html",
+    "main.39d721ee.css.map": "/eight-ball-react-js/static/css/main.39d721ee.css.map",
+    "main.b33ed54a.js.map": "/eight-ball-react-js/static/js/main.b33ed54a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/eight-ball-react-js/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d721ee.css",
+    "static/js/main.b33ed54a.js"
+  ]
+}
