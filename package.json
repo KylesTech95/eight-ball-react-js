@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "gomepage": "https://KylesTech95.github.io/eight-ball-react-js",
+  "homepage": "https://KylesTech95.github.io/eight-ball-react-js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
