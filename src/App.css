@@ -191,6 +191,10 @@ text-align: center;
 
     
   }
+  .input-div{
+    position:absolute;
+    bottom:85px;
+    }
   .circle,
 .shade-container{
   height: 175px;
